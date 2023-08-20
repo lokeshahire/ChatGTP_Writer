@@ -18,7 +18,7 @@ const Popup = () => {
       const country = ip.country
       const city = ip.city
 
-      setLocation(`Your country is ${country} and city is ${city}`)
+      setLocation(`Your country is "${country}" and city is "${city}"`)
     } catch (error) {
       console.error("Error fetching location:", error)
       setLocation("Location data not available")
