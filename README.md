@@ -20,6 +20,7 @@ npm run build
 <br>
 <br>
 
-## Assignment Link : https://gorv.notion.site/Take-home-coding-assignment-Building-a-Chrome-extension-21a08116122e4df39bb34d3fe37fa389
+## Assignment Link :
+https://gorv.notion.site/Take-home-coding-assignment-Building-a-Chrome-extension-21a08116122e4df39bb34d3fe37fa389
 
 Thank You :)
